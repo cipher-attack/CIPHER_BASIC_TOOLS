@@ -1,0 +1,10 @@
+[project]
+name = "learning-tools"
+version = "0.1.0"
+description = "CLI tools to support learning workflows"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+learning-tools = "learning_tools.cli:main"
