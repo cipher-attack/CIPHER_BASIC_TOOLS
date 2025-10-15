@@ -1,0 +1,6 @@
+{
+  "cards": [
+    {"id": "c1", "question": "What is the capital of France?", "answer": "Paris"},
+    {"id": "c2", "question": "What does CPU stand for?", "answer": "Central Processing Unit"}
+  ]
+}
